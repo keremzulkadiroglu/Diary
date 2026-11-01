@@ -1,0 +1,21 @@
+Cyber Security 101 Daybook.
+
+
+1.11.2026
+
+Today I downloaded some extensions for VSC , created my github repo , installed some
+apps that I believe they will help me with AI coding which are node.js,react,cursor etc.
+
+And I surfed on internet for some information for beginners. I found a useful github repo.
+I will follow it's path. Reviews are so good. https://github.com/LuNiZz/siber-guvenlik-sss
+
+I noticed I didn't understand github properly. So I found a guide for using github. I understood 
+the repositories , using features , adding this Daybook to my profile etc.
+
+I connected my Visual Studio Code to my Github profile.
+
+2.11.2026
+
+
+
+
