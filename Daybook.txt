@@ -1,22 +1,28 @@
 Cyber Security 101 Daybook.
 
-Kerem Zulkadiroglu
+Kerem Zülkadiroğlu
 
 1.11.2026
 
-Today I downloaded some extensions for VSC , created my github repo , installed some
-apps that I believe they will help me with AI coding which are node.js,react,cursor etc.
+Today I downloaded some extensions for VS Code, created my GitHub repo,
+ installed some apps that I believe will help me with AI coding which are Node.js, React, Cursor etc.
 
-And I surfed on internet for some information for beginners. I found a useful github repo.
-I will follow it's path. Reviews are so good. https://github.com/LuNiZz/siber-guvenlik-sss
+And I surfed on the internet for some information for beginners. I found a useful GitHub repo. I will follow its path. Reviews are so good.
 
-I noticed I didn't understand github properly. So I found a guide for using github. I understood 
-the repositories , using features , adding this Daybook to my profile etc.
+ https://github.com/LuNiZz/siber-guvenlik-sss
 
-I connected my Visual Studio Code to my Github profile.
+I noticed I didn't understand GitHub properly. So I found a guide for using GitHub. I understood the repositories,
+ using features, adding this Daybook to my profile etc.
+
+I connected my Visual Studio Code to my GitHub profile.
 
 2.11.2026
 
+Today I officially started to work on fundamentals of Cyber Security
 
+https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
+I am using this playlist, taking notes and if I don't understand something I am searching on the internet.
 
+I think this playlist will take a long time but I rather doing this work by oldschool methods than using AI and summarize 
+everything and misunderstand lots of things.
