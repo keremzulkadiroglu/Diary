@@ -29,3 +29,10 @@ everything and misunderstand lots of things.
 
 I downloaded VirtualBox to learn Linux. I knew that I needed to learn Linux and its tools, but I didn't know which Linux distro I should learn.
 In the course, they are using Kali, so I installed that. I saw Kali on Mr. Robot, but I didn't know people are using it in real life :)
+
+3.11.2026
+
+-
+
+4.11.2026
+
