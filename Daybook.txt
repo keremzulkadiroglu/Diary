@@ -2,6 +2,7 @@ Cyber Security 101 Daybook.
 
 Kerem Zülkadiroğlu
 
+
 1.11.2026
 
 Today I downloaded some extensions for VS Code, created my GitHub repo,
@@ -15,6 +16,7 @@ I noticed I didn't understand GitHub properly. So I found a guide for using GitH
 using features, adding this Daybook to my profile etc.
 
 I connected my Visual Studio Code to my GitHub profile.
+
 
 2.11.2026
 
@@ -30,9 +32,19 @@ everything and misunderstand lots of things.
 I downloaded VirtualBox to learn Linux. I knew that I needed to learn Linux and its tools, but I didn't know which Linux distro I should learn.
 In the course, they are using Kali, so I installed that. I saw Kali on Mr. Robot, but I didn't know people are using it in real life :)
 
+
 3.11.2026
 
 -
 
+
 4.11.2026
 
+I continued to online course of Linux and tried new commands. Specially commands for users and I inspected User's Security.
+
+Now I found a roadmap for Cyber Security and I found useful websites to learn more. 
+
+I will keep studying Linux for a while.
+
+
+5.11.2026
