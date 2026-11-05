@@ -48,3 +48,9 @@ I will keep studying Linux for a while.
 
 
 5.11.2026
+
+I decided to delete Windows and install Kali Linux. I could use both with dualboot method but I believe if someone wants to
+learn something he/she needs to sacrifice from his/her comfort zone. I think this move will help me to learn linux faster
+and better.
+
+Today I just changed my OS. I hope I can get used to Linux.
