@@ -2,7 +2,6 @@ Cyber Security 101 Daybook.
 
 Kerem Zülkadiroğlu
 
-
 1.11.2026
 
 Today I downloaded some extensions for VS Code, created my GitHub repo,
