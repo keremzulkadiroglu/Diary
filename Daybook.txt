@@ -1,7 +1,9 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cyber Security 101 Daybook.
 
 Kerem Zülkadiroğlu
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.11.2026
 
 Today I downloaded some extensions for VS Code, created my GitHub repo,
@@ -17,6 +19,7 @@ using features, adding this Daybook to my profile etc.
 I connected my Visual Studio Code to my GitHub profile.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 2.11.2026
 
 Today I officially started to work on fundamentals of Cyber Security
@@ -32,11 +35,13 @@ I downloaded VirtualBox to learn Linux. I knew that I needed to learn Linux and 
 In the course, they are using Kali, so I installed that. I saw Kali on Mr. Robot, but I didn't know people are using it in real life :)
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 3.11.2026
 
 -
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 4.11.2026
 
 I continued to online course of Linux and tried new commands. Specially commands for users and I inspected User's Security.
@@ -46,6 +51,8 @@ Now I found a roadmap for Cyber Security and I found useful websites to learn mo
 I will keep studying Linux for a while.
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 5.11.2026
 
 I decided to delete Windows and install Kali Linux. I could use both with dualboot method but I believe if someone wants to
@@ -55,11 +62,14 @@ and better.
 Today I just changed my OS. I hope I can get used to Linux.
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 6.11.2026
 
 -
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 7.11.2026
 
 Finally I am done with transfer. I downloaded all my applications and transferred all my files. 
@@ -69,6 +79,7 @@ I continued to playlist. Now I am starting to understand how terminal works.
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 8.11.2026
 
 Today I studied C language both for developing my general knowledge about this language and for my course in University.
@@ -77,6 +88,7 @@ One more day and I will be done with the first video of the playlist.
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 9.11.2026
 
 
