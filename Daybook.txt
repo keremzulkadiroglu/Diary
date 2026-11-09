@@ -3,6 +3,8 @@ Cyber Security 101 Daybook.
 
 Kerem Zülkadiroğlu
 
+I try to write without using translate as much as possible, and I very rarely ask for help. I just wanted to mention that.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.11.2026
 
@@ -91,5 +93,21 @@ One more day and I will be done with the first video of the playlist.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 9.11.2026
 
+Today first video of the playlist is officially finished. I want to summarize what I learned.
+
+First, I learned how to set up a virtual lab environment by running Kali Linux on VMware Workstation to prepare the necessary tools for penetration testing.
+
+Next, I learned effective note-taking techniques using KeepNote to document all actions, screenshots, and discovered vulnerabilities during a pentest for reporting.
+
+I learned how to efficiently navigate the Linux terminal and use essential command-line practices.
+
+And I learned about career strategies and key certifications (such as OSCP) required to become a successful penetration tester in the industry.
+Finally, I learned practical approaches to real-world security vulnerabilities and troubleshooting techniques through the interactive audience Q&A.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+10.11.2026
+
+Today is the anniversary of the death of Mustafa Kemal Atatürk, aka the father of the Turkish people.
+
+Today, I offer my deepest condolences to him and all his comrades. And I want to express my gratitude to them for the freedom they have given me and the Turkish youth.
