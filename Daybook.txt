@@ -20,8 +20,6 @@ I noticed I didn't understand GitHub properly. So I found a guide for using GitH
 using features, adding this Daybook to my profile etc.
 
 I connected my Visual Studio Code to my GitHub profile.
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 2.11.2026
 
@@ -37,13 +35,9 @@ everything and misunderstand lots of things.
 
 I downloaded VirtualBox to learn Linux. I knew that I needed to learn Linux and its tools, but I didn't know which Linux distro I should learn.
 In the course, they are using Kali, so I installed that. I saw Kali on Mr. Robot, but I didn't know people are using it in real life :)
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 3.11.2026
 
-
--
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -55,9 +49,6 @@ I continued to online course of Linux and tried new commands. Specially commands
 Now I found a roadmap for Cyber Security and I found useful websites to learn more. 
 
 I will keep studying Linux for a while.
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 5.11.2026
 
@@ -67,16 +58,11 @@ learn something he/she needs to sacrifice from his/her comfort zone. I think thi
 and better.
 
 Today I just changed my OS. I hope I can get used to Linux.
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 6.11.2026
 
 
 -
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 7.11.2026
 
@@ -85,9 +71,6 @@ Finally I am done with transfer. I downloaded all my applications and transferre
 I signed in my accounts and set up GitHub and VSC. 
 
 I continued to playlist. Now I am starting to understand how terminal works.
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 8.11.2026
 
@@ -95,9 +78,6 @@ I continued to playlist. Now I am starting to understand how terminal works.
 Today I studied C language both for developing my general knowledge about this language and for my course in University.
 
 One more day and I will be done with the first video of the playlist.
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 9.11.2026
 
@@ -112,8 +92,6 @@ I learned how to efficiently navigate the Linux terminal and use essential comma
 
 And I learned about career strategies and key certifications (such as OSCP) required to become a successful penetration tester in the industry.
 Finally, I learned practical approaches to real-world security vulnerabilities and troubleshooting techniques through the interactive audience Q&A.
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 10.11.2026
 
@@ -123,9 +101,6 @@ Today is the anniversary of the death of Mustafa Kemal Atatürk, aka the father 
 Today, I offer my deepest condolences to him and all his comrades. And I want to express my gratitude to them for the freedom they have given me and the Turkish youth.
 
 -
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 11.11.2026
 
@@ -135,16 +110,11 @@ Today I started to study second video of playlist.
 In this video Maverick teaches Python. Last year , when I did my graduation project of Computer Programming , I used Python.
 
 I always wanted to catch the Python. This is a perfect opportunity for me.
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 12.11.2026
 
 
 -
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 13.11.2026
 
@@ -152,7 +122,6 @@ I always wanted to catch the Python. This is a perfect opportunity for me.
 Today I continued to second video of the playlist. Since Mid-term exams are soon I don't have much time for Cyber Security. But consistency is the key.
 
 Half of the python 101 is done for today.
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 14.11.2026
 
@@ -160,9 +129,6 @@ Half of the python 101 is done for today.
 Today I finished the python 101 course. Because I knew C language's fundamentals , I understood Python so easily.
 
 And I see Python language is a High-Level language. Another advantage for beginning.
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 15.11.2026
 
