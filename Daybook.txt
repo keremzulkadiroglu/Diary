@@ -8,6 +8,7 @@ I try to write without using translate as much as possible, and I very rarely as
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.11.2026
 
+
 Today I downloaded some extensions for VS Code, created my GitHub repo,
 installed some apps that I believe will help me with AI coding which are Node.js, React, Cursor etc.
 
@@ -23,6 +24,7 @@ I connected my Visual Studio Code to my GitHub profile.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 2.11.2026
+
 
 Today I officially started to work on fundamentals of Cyber Security
 
@@ -40,11 +42,13 @@ In the course, they are using Kali, so I installed that. I saw Kali on Mr. Robot
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 3.11.2026
 
+
 -
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 4.11.2026
+
 
 I continued to online course of Linux and tried new commands. Specially commands for users and I inspected User's Security.
 
@@ -57,6 +61,7 @@ I will keep studying Linux for a while.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 5.11.2026
 
+
 I decided to delete Windows and install Kali Linux. I could use both with dualboot method but I believe if someone wants to
 learn something he/she needs to sacrifice from his/her comfort zone. I think this move will help me to learn linux faster
 and better.
@@ -68,11 +73,13 @@ Today I just changed my OS. I hope I can get used to Linux.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 6.11.2026
 
+
 -
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 7.11.2026
+
 
 Finally I am done with transfer. I downloaded all my applications and transferred all my files. 
 I signed in my accounts and set up GitHub and VSC. 
@@ -84,6 +91,7 @@ I continued to playlist. Now I am starting to understand how terminal works.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 8.11.2026
 
+
 Today I studied C language both for developing my general knowledge about this language and for my course in University.
 
 One more day and I will be done with the first video of the playlist.
@@ -92,6 +100,7 @@ One more day and I will be done with the first video of the playlist.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 9.11.2026
+
 
 Today first video of the playlist is officially finished. I want to summarize what I learned.
 
@@ -108,6 +117,7 @@ Finally, I learned practical approaches to real-world security vulnerabilities a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 10.11.2026
 
+
 Today is the anniversary of the death of Mustafa Kemal Atatürk, aka the father of the Turkish people.
 
 Today, I offer my deepest condolences to him and all his comrades. And I want to express my gratitude to them for the freedom they have given me and the Turkish youth.
@@ -119,6 +129,7 @@ Today, I offer my deepest condolences to him and all his comrades. And I want to
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 11.11.2026
 
+
 Today I started to study second video of playlist.
 
 In this video Maverick teaches Python. Last year , when I did my graduation project of Computer Programming , I used Python.
@@ -129,3 +140,31 @@ I always wanted to catch the Python. This is a perfect opportunity for me.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 12.11.2026
+
+
+-
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+13.11.2026
+
+
+Today I continued to second video of the playlist. Since Mid-term exams are soon I don't have much time for Cyber Security. But consistency is the key.
+
+Half of the python 101 is done for today.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+14.11.2026
+
+
+Today I finished the python 101 course. Because I knew C language's fundamentals , I understood Python so easily.
+
+And I see Python language is a High-Level language. Another advantage for beginning.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+15.11.2026
+
+
+.
