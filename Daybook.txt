@@ -12,9 +12,7 @@ I try to write without using translate as much as possible, and I very rarely as
 Today I downloaded some extensions for VS Code, created my GitHub repo,
 installed some apps that I believe will help me with AI coding which are Node.js, React, Cursor etc.
 
-And I surfed on the internet for some information for beginners. I found a useful GitHub repo. I will follow its path. Reviews are so good.
-
-https://github.com/LuNiZz/siber-guvenlik-sss
+And I surfed on the internet for some information for beginners.
 
 I noticed I didn't understand GitHub properly. So I found a guide for using GitHub. I understood the repositories,
 using features, adding this Daybook to my profile etc.
@@ -140,3 +138,9 @@ And I see Python language is a High-Level language. Another advantage for beginn
 
 I have to take a short break because of my midterm exams. And I realized if I don't study Linux stuff I feel something is missing. That is something good. 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+17.11.2026
+
+
+Today I had 1 hour space. I found a Turkish source for python. I am reading and trying codes in my free time. ( https://python.yazbel.com/ ). 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+18.11.2026
