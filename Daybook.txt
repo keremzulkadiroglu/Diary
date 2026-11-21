@@ -1,12 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cyber Security 101 Daybook.
 
-My work rates:
-
---> %70 Linux 
---> %20 Python
---> %10 C Language
-
 Kerem Zülkadiroğlu
 
 I try to write without using translate as much as possible, and I very rarely ask for help. I just wanted to mention that.
@@ -162,5 +156,10 @@ Today I just studied for C programming. I am trying to improve my skills with 2-
 20.11.2026
 
 
+-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+21.11.2026
 
+
+Again, I studied for C programming 2 dimensional arrays and functions. For linux and python I have no time.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
